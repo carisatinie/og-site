@@ -1,5 +1,21 @@
-@import url("font-awesome.min.css");
+body {
+	background-color: #fcfcfc;
+}
+
 #nav {
 	text-align: center;
+}
 
+#nav a {
+	text-decoration: none;
+	font-size: 4em;
+	padding: 0.5em;
+}
+
+.fa {
+	color: #c7cfe5;
+}
+
+.fa:hover {
+	color: #f7c0c0;
 }
